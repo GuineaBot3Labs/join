@@ -1,2 +1,2 @@
 # join
-Join here with a issue with the "contact" tag.
+Join here with a issue with the "contact" label.
